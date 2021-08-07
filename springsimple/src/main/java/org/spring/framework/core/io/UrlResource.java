@@ -7,7 +7,7 @@ import java.net.URLConnection;
 
 /**
  * @Author victor
- * @Description TODO
+ * @Description url资源
  * @Date 2021-08-01 21:18
  * @Version 1.0
  */
